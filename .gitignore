@@ -1,2 +1,5 @@
 venv/
 .env
+.DS_Store
+__pycache__/
+./Building RAG app/QA_bot_app/.gradio
